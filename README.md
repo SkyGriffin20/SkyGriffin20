@@ -30,7 +30,7 @@ I'm an aspiring **game developer** with a dream to one day create an open-world 
 He/Him
 
 ## ⚡ Fun fact
-I’m inspired by epic monster battles like those in *Shadow of the Colossus* and *Monster Hunter* and love experimenting with ways to recreate that cinematic excitement in my projects.
+Alongside my passion for game development, I’m a big fan of anime and manga—especially *One Piece*. I’m inspired by the depth of storytelling and world-building in these series, which fuels my ambition to create immersive, expansive game worlds.
 
 <!---
 SkyGriffin20/SkyGriffin20 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
