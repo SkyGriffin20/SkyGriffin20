@@ -13,14 +13,13 @@ I'm an aspiring **game developer** with a dream to one day create an open-world 
 ## 🌱 I’m currently learning
 - **Unity and C#**: Strengthening my game development and scripting skills.
 - **Web Development**: Crafting interactive front-end applications with HTML, CSS, and JavaScript.
-- **Cloud Services**: Integrating cloud solutions for real-time data and player interactions.
 - **XR/AR Development**: Using XR SDKs to create immersive experiences, especially for education.
 
 ## 💞️ I’m looking to collaborate on
 - **Game Development Projects**: Open-world, multiplayer, or educational games.
 - **Gamified Learning Projects**: Games and applications that combine education and entertainment.
 - **XR/VR Projects**: Applications with a focus on interactive learning and language games.
-- **AI-Driven Projects**: AI applications for NPC behaviors and adaptive gameplay.
+- **AI-Driven Projects**: AI applications for NPC behaviours and adaptive gameplay.
 
 ## 📫 How to reach me
 - **Email**: skygriffin20.contact@gmail.com
