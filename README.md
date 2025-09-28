@@ -26,84 +26,25 @@ I’m a **Computer Engineering student and aspiring game developer** passionate 
 
 ## 🔥 Featured Projects
 
-### 🎮 [Secrets Of The Crown](#)
-*First-person labyrinth adventure with traps, lore, and parkour — built for speedrunners.*  
-- Randomized spawns + key locations for replayability  
-- Traps, collectibles, and parkour finale challenge  
-- Dynamic audio (footsteps, surfaces, flashlight)  
-- Difficulty modes (easy → hard, with fall damage scaling)  
-- **Status:** `alpha`
+### 🎮 Games & XR
+- **[Secrets Of The Crown](#)** — First-person labyrinth adventure with traps, lore, and parkour.  
+- **[XR École](#)** — Immersive XR learning platform for teaching French.  
+- **[Dr. Griffin’s Atlas](#)** — Interactive explorer’s cabinet of wonders.  
 
----
+### 🤖 AI & ML
+- **[Holographic Talking Agent](#)** — Real-time holographic AI assistant with lifelike 3D avatars.  
+- **[Legal Document Analysis](#)** — AI system for summarization, clause classification, and anomaly detection in legal documents.  
+- **[MediScan](#)** — AI-powered medicine info extractor with multilingual summaries.  
+- **[Pothole Detection (YOLO v5)](#)** — Computer vision system for detecting road potholes.  
+- **[Laplace Transform Encryption & Decryption](https://github.com/SkyGriffin20/Laplace-Transform-Encryption-Decryption)** — Custom Python encryption scheme using Laplace transform logic.  
+- **[Image Compression using SVD](https://github.com/SkyGriffin20/Image-Compression-using-SVD)** — Python implementation of image compression using Singular Value Decomposition.  
 
-### 🪄 [Holographic Talking Agent](#)
-*A real-time holographic AI assistant with lifelike 3D avatars.*  
-- Pipeline: **Google STT → OpenAI GPT-4o mini → Google TTS → Unity lip-sync avatar**  
-- Multiple deployment modes: cloud, hybrid, offline  
-- Built for **hospitality, education, and exhibitions**  
-- Flexible pipeline choices for **cost & latency optimization**  
-- **Status:** `wip`
+### 🌐 Web & Systems
+- **[Hospital Website System](https://github.com/SkyGriffin20/Hospital-Management-Website-Frontend)** — Interactive hospital portal with appointments, chat, and maps.  
+- **[Distributed Exam System](#)** — Client–server exam platform with real-time synchronization.  
 
----
-
-### ⚖️ [Legal Document Analysis](#)
-*AI system for analyzing lengthy legal judgments and contracts.*  
-- Summarization (extractive + abstractive with LED/BART)  
-- Clause classification + semantic search  
-- Risk/anomaly detection using attention weights  
-- Trained on **Indian legal documents**  
-- **Status:** `wip`
-
----
-
-### 📚 [Dr. Griffin’s Atlas](#)
-*Interactive explorer’s cabinet of wonders.*  
-- Responsive bookshelf UI (HTML, CSS, JS)  
-- JSON-powered dynamic shelves & books  
-- Modal for expandable book content (future: page flip widget)  
-- Customizable wood + book themes  
-- **Status:** `wip`
-
----
-
-### 🕶️ [XR École](#)
-*Immersive XR learning platform for teaching French.*  
-- VR/AR lessons with interactive objects  
-- Built-in vocabulary + grammar quizzes  
-- Gamified prototype tested in classrooms  
-
----
-
-### 💊 [MediScan](#)
-*AI medicine info extractor for accessibility.*  
-- OCR (EasyOCR) + Gemini LLM integration  
-- Extracts dosage, expiry, composition  
-- Generates **multilingual summaries** for low-literacy use  
-- Aims to improve **healthcare accessibility**  
-
----
-
-### 🖥 [Distributed Exam System](#)
-*Client–server exam platform with live sync.*  
-- Built with **Python + MySQL**  
-- Role-based access control (student/examiner/admin)  
-- Real-time exam synchronization  
-
----
-
-### 🛣️ [Pothole Detection (YOLO v5)](#)
-*Smart city computer vision project.*  
-- Custom pothole dataset with augmentation  
-- YOLO v5 + OpenCV for detection  
-- Deployable on edge devices  
-
----
-
-### 🏥 [Hospital Website System](#)
-*Interactive web portal for hospital services.*  
-- Appointment booking (multi-department, multi-doctor)  
-- Doctor/patient login with chat & prescription view  
-- Pharma locator with **Google Maps API**  
+### 🔧 Hardware & IoT
+- **[Password-based Lock System (Arduino)](https://github.com/SkyGriffin20/Password-based-Lock-System-Using-Arduino)** — Arduino-based password lock with keypad, LCD, servo, and buzzer.  
 
 ---
 
