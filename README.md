@@ -36,7 +36,7 @@ I’m a **Computer Engineering student and aspiring game developer** passionate 
 
 ---
 
-### 🪄 [Holographic Talking Agent](#)
+### 🪄 Holographic Talking Agent
 *A real-time holographic AI assistant with lifelike 3D avatars.*  
 - Pipeline: **Google STT → OpenAI GPT-4o mini → Google TTS → Unity lip-sync avatar**  
 - Multiple deployment modes: cloud, hybrid, offline  
