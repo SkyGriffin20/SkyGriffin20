@@ -16,6 +16,15 @@ My long-term vision is to develop **large-scale open-world MMORPGs**, and I’m 
 
 ---
 
+## 👀 Areas of Interest
+- 🎮 **Game Development** (Unity, C#, systems & mechanics)  
+- 🧠 **AI in Games** (NPCs, procedural content, adaptive systems)  
+- 🕶️ **XR/VR Development** (immersive gameplay & learning)  
+- 📚 **Gamified Learning** (education through interactivity)  
+- ☁️ **Cloud Integration** (real-time, scalable services)  
+
+---
+
 ## 🔥 Featured Projects
 
 ### 🎮 [Secrets Of The Crown](#)
@@ -96,15 +105,6 @@ My long-term vision is to develop **large-scale open-world MMORPGs**, and I’m 
 - Appointment booking (multi-department, multi-doctor)  
 - Doctor/patient login with chat & prescription view  
 - Pharma locator with **Google Maps API**  
-
----
-
-## 👀 Areas of Interest
-- 🎮 **Game Development** (Unity, C#, systems & mechanics)  
-- 🧠 **AI in Games** (NPCs, procedural content, adaptive systems)  
-- 🕶️ **XR/VR Development** (immersive gameplay & learning)  
-- 📚 **Gamified Learning** (education through interactivity)  
-- ☁️ **Cloud Integration** (real-time, scalable services)  
 
 ---
 
