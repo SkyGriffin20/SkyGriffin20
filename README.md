@@ -1,35 +1,120 @@
-# 👋 Hi, I’m @SkyGriffin20
+# 👋 Hi, I’m Shrivardhan (aka SkyGriffin20)
 
-I'm an aspiring **game developer** with a dream to one day create an open-world MMORPG. While I'm not currently focused on MMORPGs, I'm steadily building the skills needed to realize that vision by diving into various game development technologies and projects. I’m also passionate about **gamified learning**, exploring how game mechanics can make education more engaging and effective.
+🎮 **Computer Engineering student | Game Developer in the making | AI & XR Enthusiast**
 
-## 👀 I’m interested in
-- **Game Development**: Exploring mechanics and systems for immersive gameplay.
-- **Unity**: Harnessing Unity's tools and flexibility for game creation.
-- **Gamified Learning**: Developing educational games that make learning fun and interactive.
-- **Augmented & Virtual Reality**: Creating XR experiences for engaging learning and gameplay.
-- **AI in Games**: Experimenting with AI to enhance NPC interactions and player engagement.
-- **Cloud Integration**: Building real-time, scalable components that bring dynamic elements to games.
+I’m passionate about building **immersive experiences and interactive systems** that blend creativity with technical depth.  
+My long-term vision is to develop **large-scale open-world MMORPGs**, and I’m steadily building the foundation for it through hands-on projects in **Unity, C#, AI/ML, XR/VR, and cloud systems**.
 
-## 🌱 I’m currently learning
-- **Unity and C#**: Strengthening my game development and scripting skills.
-- **Web Development**: Crafting interactive front-end applications with HTML, CSS, and JavaScript.
-- **XR/AR Development**: Using XR SDKs to create immersive experiences, especially for education.
+---
 
-## 💞️ I’m looking to collaborate on
-- **Game Development Projects**: Open-world, multiplayer, or educational games.
-- **Gamified Learning Projects**: Games and applications that combine education and entertainment.
-- **XR/VR Projects**: Applications with a focus on interactive learning and language games.
-- **AI-Driven Projects**: AI applications for NPC behaviours and adaptive gameplay.
+## 🚀 About Me
+- 🎓 B. Tech in **Computer Engineering** (Batch 2026)  
+- 💻 Specialized in **game design & software development**  
+- 🧠 Interests: **Game Development, AI in Games, XR/VR Learning, Cloud Systems**  
+- 🌍 Exploring how **AI, XR, and cloud integration** can push the boundaries of gameplay & learning  
+- ✨ Driven to merge **storytelling, interactivity, and technology**  
 
-## 📫 How to reach me
-- **Email**: skygriffin20.contact@gmail.com
-- **LinkedIn**: [Sky Griffin](https://www.linkedin.com/in/shrivardhan-wagh)
+---
 
-## 😄 Pronouns
-He/Him
+## 🔥 Featured Projects
 
-## ⚡ Fun fact
-Alongside my passion for game development, I’m a big fan of anime and manga—especially *One Piece*. I’m inspired by the depth of storytelling and world-building in these series, which fuels my ambition to create immersive, expansive game worlds.
+### 🎮 [Secrets Of The Crown](#)
+*First-person labyrinth adventure with traps, lore, and parkour — built for speedrunners.*  
+- Randomized spawns + key locations for replayability  
+- Traps, collectibles, and parkour finale challenge  
+- Dynamic audio (footsteps, surfaces, flashlight)  
+- Difficulty modes (easy → hard, with fall damage scaling)  
+- **Status:** `alpha`
+
+---
+
+### 🪄 [Holographic Talking Agent](#)
+*A real-time holographic AI assistant with lifelike 3D avatars.*  
+- Pipeline: **Google STT → OpenAI GPT-4o mini → Google TTS → Unity lip-sync avatar**  
+- Multiple deployment modes: cloud, hybrid, offline  
+- Built for **hospitality, education, and exhibitions**  
+- Flexible pipeline choices for **cost & latency optimization**  
+- **Status:** `wip`
+
+---
+
+### ⚖️ [Legal Document Analysis](#)
+*AI system for analyzing lengthy legal judgments and contracts.*  
+- Summarization (extractive + abstractive with LED/BART)  
+- Clause classification + semantic search  
+- Risk/anomaly detection using attention weights  
+- Trained on **Indian legal documents**  
+- **Status:** `wip`
+
+---
+
+### 🕶️ [XR École](#)
+*Immersive XR learning platform for teaching French.*  
+- VR/AR lessons with interactive objects  
+- Built-in vocabulary + grammar quizzes  
+- Gamified prototype tested in classrooms  
+
+---
+
+### 📚 [Dr. Griffin’s Atlas](#)
+*Interactive explorer’s cabinet of wonders.*  
+- Responsive bookshelf UI (HTML, CSS, JS)  
+- JSON-powered dynamic shelves & books  
+- Modal for expandable book content (future: page flip widget)  
+- Customizable wood + book themes  
+- **Status:** `wip`
+
+---
+
+### 💊 [MediScan](#)
+*AI medicine info extractor for accessibility.*  
+- OCR (EasyOCR) + Gemini LLM integration  
+- Extracts dosage, expiry, composition  
+- Generates **multilingual summaries** for low-literacy use  
+- Aims to improve **healthcare accessibility**  
+
+---
+
+### 🖥 [Distributed Exam System](#)
+*Client–server exam platform with live sync.*  
+- Built with **Python + MySQL**  
+- Role-based access control (student/examiner/admin)  
+- Real-time exam synchronization  
+
+---
+
+### 🛣️ [Pothole Detection (YOLO v5)](#)
+*Smart city computer vision project.*  
+- Custom pothole dataset with augmentation  
+- YOLO v5 + OpenCV for detection  
+- Deployable on edge devices  
+
+---
+
+### 🏥 [Hospital Website System](#)
+*Interactive web portal for hospital services.*  
+- Appointment booking (multi-department, multi-doctor)  
+- Doctor/patient login with chat & prescription view  
+- Pharma locator with **Google Maps API**  
+
+---
+
+## 👀 Areas of Interest
+- 🎮 **Game Development** (Unity, C#, systems & mechanics)  
+- 🧠 **AI in Games** (NPCs, procedural content, adaptive systems)  
+- 🕶️ **XR/VR Development** (immersive gameplay & learning)  
+- 📚 **Gamified Learning** (education through interactivity)  
+- ☁️ **Cloud Integration** (real-time, scalable services)  
+
+---
+
+## 📫 Let’s Connect
+- ✉️ Email: **skygriffin20.contact@gmail.com**  
+- 🐙 LinkedIn: [Shrivardhan Wagh](https://www.linkedin.com/in/shrivardhan-wagh)
+
+---
+
+⭐ *“Building worlds where creativity meets code — one project at a time.”*
 
 <!---
 SkyGriffin20/SkyGriffin20 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
