@@ -23,7 +23,7 @@ I'm an aspiring **game developer** with a dream to one day create an open-world 
 
 ## 📫 How to reach me
 - **Email**: skygriffin20.contact@gmail.com
-- **LinkedIn**: [Sky Griffin](www.linkedin.com/in/shrivardhan-wagh-55aab827b)
+- **LinkedIn**: [Sky Griffin](https://www.linkedin.com/in/shrivardhan-wagh)
 
 ## 😄 Pronouns
 He/Him
