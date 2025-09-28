@@ -36,15 +36,15 @@ I’m a **Computer Engineering student and aspiring game developer** passionate 
 - **[Legal Document Analysis](#)** — AI system for summarization, clause classification, and anomaly detection in legal documents.  
 - **[MediScan](#)** — AI-powered medicine info extractor with multilingual summaries.  
 - **[Pothole Detection (YOLO v5)](#)** — Computer vision system for detecting road potholes.  
-- **<a href="https://github.com/SkyGriffin20/Laplace-Transform-Encryption-Decryption" target="_blank">Laplace Transform Encryption & Decryption</a>** — Custom Python encryption scheme using Laplace transform logic.  
-- **<a href="https://github.com/SkyGriffin20/Image-Compression-using-SVD" target="_blank">Image Compression using SVD</a>** — Python implementation of image compression using Singular Value Decomposition.  
+- **[Laplace Transform Encryption & Decryption](https://github.com/SkyGriffin20/Laplace-Transform-Encryption-Decryption)** — Custom Python encryption scheme using Laplace transform logic.  
+- **[Image Compression using SVD](https://github.com/SkyGriffin20/Image-Compression-using-SVD)** — Python implementation of image compression using Singular Value Decomposition.  
 
 ### 🌐 Web & Systems
-- **<a href="https://github.com/SkyGriffin20/Hospital-Management-Website-Frontend" target="_blank">Hospital Website System</a>** — Interactive hospital portal with appointments, chat, and maps.  
+- **[Hospital Website System](https://github.com/SkyGriffin20/Hospital-Management-Website-Frontend)** — Interactive hospital portal with appointments, chat, and maps.  
 - **[Distributed Exam System](#)** — Client–server exam platform with real-time synchronization.  
 
 ### 🔧 Hardware & IoT
-- **<a href="https://github.com/SkyGriffin20/Password-based-Lock-System-Using-Arduino" target="_blank">Password-based Lock System (Arduino)</a>** — Arduino-based password lock with keypad, LCD, servo, and buzzer.
+- **[Password-based Lock System (Arduino)](https://github.com/SkyGriffin20/Password-based-Lock-System-Using-Arduino)** — Arduino-based password lock with keypad, LCD, servo, and buzzer.  
 
 ---
 
