@@ -2,8 +2,7 @@
 
 🎮 **Computer Engineering student | Game Developer in the making | AI & XR Enthusiast**
 
-I’m passionate about building **immersive experiences and interactive systems** that blend creativity with technical depth.  
-My long-term vision is to develop **large-scale open-world MMORPGs**, and I’m steadily building the foundation for it through hands-on projects in **Unity, C#, AI/ML, XR/VR, and cloud systems**.
+I’m a **Computer Engineering student and aspiring game developer** passionate about building **immersive experiences and interactive systems**. My long-term vision is to create **large-scale open-world MMORPGs**, and I’m steadily developing the technical foundation to achieve it. With a strong focus on **Unity, C#, and software development**, I’ve gained hands-on experience across **3D game design, web development, AI, and gamified learning**. My work combines **creativity with technical depth**, and I’m constantly exploring how emerging technologies like **AI, XR/VR, and cloud computing** can redefine the possibilities of **gameplay and interactive learning**.  
 
 ---
 
