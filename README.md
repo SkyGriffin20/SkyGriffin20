@@ -32,7 +32,6 @@ I’m a **Computer Engineering student and aspiring game developer** passionate 
 - **[Dr. Griffin’s Atlas](#)** — Interactive explorer’s cabinet of wonders.  
 
 ### 🤖 AI & ML
-- **[Holographic Talking Agent](#)** — Real-time holographic AI assistant with lifelike 3D avatars.  
 - **[Legal Document Analysis](#)** — AI system for summarization, clause classification, and anomaly detection in legal documents.  
 - **[MediScan](#)** — AI-powered medicine info extractor with multilingual summaries.  
 - **[Pothole Detection (YOLO v5)](#)** — Computer vision system for detecting road potholes.  
